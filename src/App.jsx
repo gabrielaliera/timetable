@@ -5,8 +5,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Itinerary for 7 Days in Tokyo 🏙</h1>
-      <h2>Welcome to Tokyo, NAME! Check out this calendar to get to know the city and see all the sights during your stay.</h2>
+      <h1>Class Schedule</h1>
+      <h2>Welcome NAME! Check out your class schedule for this semester.</h2>
       <Calendar />
     </div>
   )
