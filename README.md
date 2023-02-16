@@ -5,7 +5,7 @@ Timetable is a grid-style calendar with one-hour events that plans out a single 
 
 ## Project Screenshot
 
-![screenshot of completed project](readme_screenshot.png)
+![screenshot of completed project](timetable_screenshot.PNG)
 
 ## Setup
 
@@ -65,14 +65,7 @@ To deploy this application on Netlify, run the following in the repo directory:
 npm install
 npm run build
 ```
-
-Upload the generated `dist` file to Netlify at:
-
-```html
-https://app.netlify.com/drop
-```
-
 <br/>
 
 ---
-*Last Updated: December 2022*
+*Last Updated: January 2023*
