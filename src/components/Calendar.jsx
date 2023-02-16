@@ -31,9 +31,9 @@ const Calendar = () => {
                 <tr>
                     <td className="time">9 am</td>
                     <td></td>
-                    <Event event='Web Dev' color ='green'/>
+                    <Event event='Web Dev' location ='Rm. 325' color ='green'/>
                     <td></td>
-                    <Event event='Wed Dev' color ='green'/>
+                    <Event event='Wed Dev' location = 'Rm. 325' color ='green'/>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -41,9 +41,9 @@ const Calendar = () => {
                 <tr>
                     <td className="time">10 am</td>
                     <td></td>
-                    <Event event='Wed Dev' color ='green'/>
+                    <Event event='Wed Dev' location ='Rm. 325' color ='green'/>
                     <td></td>
-                    <Event event='Wed Dev' color ='green'/>
+                    <Event event='Wed Dev' location ='Rm. 325' color ='green'/>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -61,30 +61,30 @@ const Calendar = () => {
                 <tr>
                     <td className="time">12 pm</td>
                     <td></td>
-                    <Event event='Job Search' color ='pink'/>
+                    <Event event='Job Search' location ='online' color ='pink'/>
                     <td></td>
                     <td></td>
                     <td></td>
-                    <Event event='Job Search' color ='pink'/>
+                    <Event event='Job Search' location ='online' color ='pink'/>
                     <td></td>
                 </tr>
                 <tr>
                     <td className="time">1 pm</td>
                     <td></td>
-                    <Event event='Job Search' color ='pink'/>
+                    <Event event='Job Search' location ='online' color ='pink'/>
                     <td></td>
                     <td></td>
                     <td></td>
-                    <Event event='Job Search' color ='pink'/>
+                    <Event event='Job Search' location ='online' color ='pink'/>
                     <td></td>
                 </tr>
                 <tr>
                     <td className="time">2 pm</td>
                     <td></td>
                     <td></td>
-                    <Event event= 'Coding Practice' color ='blue'/>
+                    <Event event= 'Coding Practice' location ='Leetcode' color ='blue'/>
                     <td></td>
-                    <Event event='Coding Practice' color ='blue'/>
+                    <Event event='Coding Practice' location ='HackerRank' color ='blue'/>
                     <td></td>
                     <td></td>
                 </tr>
@@ -92,9 +92,9 @@ const Calendar = () => {
                     <td className="time">3 pm</td>
                     <td></td>
                     <td></td>
-                    <Event event= 'Coding Practice' color ='blue'/>
+                    <Event event= 'Coding Practice' location ='Leetcode' color ='blue'/>
                     <td></td>
-                    <Event event='Coding Practice' color ='blue'/>
+                    <Event event='Coding Practice' location ='HackerRank' color ='blue'/>
                     <td></td>           
                     <td></td>
                 </tr>
@@ -112,7 +112,7 @@ const Calendar = () => {
                     <td className="time">5 pm</td>
                     <td></td>
                     <td></td>
-                    <Event event='Web Dev' color ='green'/>
+                    <Event event='Web Dev' location ='Rm. 325' color ='green'/>
                     <td></td>
                     <td></td>
                     <td></td>
