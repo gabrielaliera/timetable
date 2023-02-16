@@ -2,7 +2,7 @@ import React from "react";
 
 const Calendar = () => {
     return(
-        <div className = "Calendar">Testing the calnedar component</div>
+        <div className = "Calendar">Testing the calendar component</div>
     )
 }
 
