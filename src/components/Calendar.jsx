@@ -82,9 +82,9 @@ const Calendar = () => {
                     <td className="time">2 pm</td>
                     <td></td>
                     <td></td>
-                    <Event event= 'Coding Practice' location ='Leetcode' color ='blue'/>
+                    <Event event= 'Coding' location ='Leetcode' color ='blue'/>
                     <td></td>
-                    <Event event='Coding Practice' location ='HackerRank' color ='blue'/>
+                    <Event event='Coding' location ='HackerRank' color ='blue'/>
                     <td></td>
                     <td></td>
                 </tr>
@@ -92,9 +92,9 @@ const Calendar = () => {
                     <td className="time">3 pm</td>
                     <td></td>
                     <td></td>
-                    <Event event= 'Coding Practice' location ='Leetcode' color ='blue'/>
+                    <Event event= 'Coding' location ='Leetcode' color ='blue'/>
                     <td></td>
-                    <Event event='Coding Practice' location ='HackerRank' color ='blue'/>
+                    <Event event='Coding' location ='HackerRank' color ='blue'/>
                     <td></td>           
                     <td></td>
                 </tr>
