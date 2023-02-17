@@ -4,8 +4,8 @@ import React from "react";
 const Event = (props) => {
     return (
         <td className={'Event ' + props.color}>
-            <h5>{props.event}</h5>
-            <h6>{props.location}</h6>
+            <h3>{props.event}</h3>
+            <h4>{props.location}</h4>
         </td>
     );  
 }
